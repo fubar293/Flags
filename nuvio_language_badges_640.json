@@ -1,0 +1,324 @@
+{
+  "badges": [
+    {
+      "id": "lang_en_01",
+      "name": "EN — English — United States",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=united-states&size=640"
+    },
+    {
+      "id": "lang_en_02",
+      "name": "EN — English — England / Great Britain",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=england&size=640"
+    },
+    {
+      "id": "lang_es_03",
+      "name": "ES — Spanish — Spain",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=spain&size=640"
+    },
+    {
+      "id": "lang_es_04",
+      "name": "ES — Spanish — Mexico / Latin America",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=mexico&size=640"
+    },
+    {
+      "id": "lang_pt_05",
+      "name": "PT — Portuguese — Brazil",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=brazil&size=640"
+    },
+    {
+      "id": "lang_pt_06",
+      "name": "PT — Portuguese — Portugal",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=portugal&size=640"
+    },
+    {
+      "id": "lang_fr_07",
+      "name": "FR — French — France",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=france&size=640"
+    },
+    {
+      "id": "lang_fr_08",
+      "name": "FR — French — Canada",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=canada&size=640"
+    },
+    {
+      "id": "lang_de_09",
+      "name": "DE — German — Germany",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=germany&size=640"
+    },
+    {
+      "id": "lang_it_10",
+      "name": "IT — Italian — Italy",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=italy&size=640"
+    },
+    {
+      "id": "lang_nl_11",
+      "name": "NL — Dutch — Netherlands",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=netherlands&size=640"
+    },
+    {
+      "id": "lang_pl_12",
+      "name": "PL — Polish — Poland",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=poland&size=640"
+    },
+    {
+      "id": "lang_ru_13",
+      "name": "RU — Russian — Russia",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=russia&size=640"
+    },
+    {
+      "id": "lang_uk_14",
+      "name": "UK — Ukrainian — Ukraine",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=ukraine&size=640"
+    },
+    {
+      "id": "lang_cs_15",
+      "name": "CS — Czech — Czech Republic",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=czech-republic&size=640"
+    },
+    {
+      "id": "lang_sk_16",
+      "name": "SK — Slovak — Slovakia",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=slovakia&size=640"
+    },
+    {
+      "id": "lang_hu_17",
+      "name": "HU — Hungarian — Hungary",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=hungary&size=640"
+    },
+    {
+      "id": "lang_ro_18",
+      "name": "RO — Romanian — Romania",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=romania&size=640"
+    },
+    {
+      "id": "lang_bg_19",
+      "name": "BG — Bulgarian — Bulgaria",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=bulgaria&size=640"
+    },
+    {
+      "id": "lang_hr_20",
+      "name": "HR — Croatian — Croatia",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=croatia&size=640"
+    },
+    {
+      "id": "lang_sr_21",
+      "name": "SR — Serbian — Serbia",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=serbia&size=640"
+    },
+    {
+      "id": "lang_sl_22",
+      "name": "SL — Slovenian — Slovenia",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=slovenia&size=640"
+    },
+    {
+      "id": "lang_el_23",
+      "name": "EL — Greek — Greece",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=greece&size=640"
+    },
+    {
+      "id": "lang_tr_24",
+      "name": "TR — Turkish — Turkey",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=turkey&size=640"
+    },
+    {
+      "id": "lang_sv_25",
+      "name": "SV — Swedish — Sweden",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=sweden&size=640"
+    },
+    {
+      "id": "lang_no_26",
+      "name": "NO — Norwegian — Norway",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=norway&size=640"
+    },
+    {
+      "id": "lang_da_27",
+      "name": "DA — Danish — Denmark",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=denmark&size=640"
+    },
+    {
+      "id": "lang_fi_28",
+      "name": "FI — Finnish — Finland",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=finland&size=640"
+    },
+    {
+      "id": "lang_is_29",
+      "name": "IS — Icelandic — Iceland",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=iceland&size=640"
+    },
+    {
+      "id": "lang_et_30",
+      "name": "ET — Estonian — Estonia",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=estonia&size=640"
+    },
+    {
+      "id": "lang_lv_31",
+      "name": "LV — Latvian — Latvia",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=latvia&size=640"
+    },
+    {
+      "id": "lang_lt_32",
+      "name": "LT — Lithuanian — Lithuania",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=lithuania&size=640"
+    },
+    {
+      "id": "lang_ga_33",
+      "name": "GA — Irish — Ireland",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=ireland&size=640"
+    },
+    {
+      "id": "lang_ja_34",
+      "name": "JA — Japanese — Japan",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=japan&size=640"
+    },
+    {
+      "id": "lang_ko_35",
+      "name": "KO — Korean — South Korea",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=south-korea&size=640"
+    },
+    {
+      "id": "lang_zh_36",
+      "name": "ZH — Chinese, Simplified — China",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=china&size=640"
+    },
+    {
+      "id": "lang_zh_37",
+      "name": "ZH — Chinese, Traditional — Taiwan",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=taiwan&size=640"
+    },
+    {
+      "id": "lang_zh_38",
+      "name": "ZH — Chinese, Cantonese / Hong Kong",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=hong-kong&size=640"
+    },
+    {
+      "id": "lang_hi_39",
+      "name": "HI — Hindi — India",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=india&size=640"
+    },
+    {
+      "id": "lang_bn_40",
+      "name": "BN — Bengali — Bangladesh",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=bangladesh&size=640"
+    },
+    {
+      "id": "lang_ur_41",
+      "name": "UR — Urdu — Pakistan",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=pakistan&size=640"
+    },
+    {
+      "id": "lang_ta_42",
+      "name": "TA — Tamil — India",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=india&size=640"
+    },
+    {
+      "id": "lang_ta_43",
+      "name": "TA — Tamil — Sri Lanka",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=sri-lanka&size=640"
+    },
+    {
+      "id": "lang_te_44",
+      "name": "TE — Telugu — India",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=india&size=640"
+    },
+    {
+      "id": "lang_ml_45",
+      "name": "ML — Malayalam — India",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=india&size=640"
+    },
+    {
+      "id": "lang_mr_46",
+      "name": "MR — Marathi — India",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=india&size=640"
+    },
+    {
+      "id": "lang_gu_47",
+      "name": "GU — Gujarati — India",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=india&size=640"
+    },
+    {
+      "id": "lang_pa_48",
+      "name": "PA — Punjabi — India",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=india&size=640"
+    },
+    {
+      "id": "lang_ar_49",
+      "name": "AR — Arabic — Saudi Arabia",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=saudi-arabia&size=640"
+    },
+    {
+      "id": "lang_ar_50",
+      "name": "AR — Arabic — Egypt",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=egypt&size=640"
+    },
+    {
+      "id": "lang_ar_51",
+      "name": "AR — Arabic — United Arab Emirates",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=united-arab-emirates&size=640"
+    },
+    {
+      "id": "lang_he_52",
+      "name": "HE — Hebrew — Israel",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=israel&size=640"
+    },
+    {
+      "id": "lang_fa_53",
+      "name": "FA — Persian / Farsi — Iran",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=iran&size=640"
+    },
+    {
+      "id": "lang_th_54",
+      "name": "TH — Thai — Thailand",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=thailand&size=640"
+    },
+    {
+      "id": "lang_vi_55",
+      "name": "VI — Vietnamese — Vietnam",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=vietnam&size=640"
+    },
+    {
+      "id": "lang_id_56",
+      "name": "ID — Indonesian — Indonesia",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=indonesia&size=640"
+    },
+    {
+      "id": "lang_ms_57",
+      "name": "MS — Malay — Malaysia",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=malaysia&size=640"
+    },
+    {
+      "id": "lang_tl_58",
+      "name": "TL — Filipino / Tagalog — Philippines",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=philippines&size=640"
+    },
+    {
+      "id": "lang_km_59",
+      "name": "KM — Khmer — Cambodia",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=cambodia&size=640"
+    },
+    {
+      "id": "lang_lo_60",
+      "name": "LO — Lao — Laos",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=laos&size=640"
+    },
+    {
+      "id": "lang_my_61",
+      "name": "MY — Burmese — Myanmar",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=myanmar&size=640"
+    },
+    {
+      "id": "lang_mn_62",
+      "name": "MN — Mongolian — Mongolia",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=mongolia&size=640"
+    },
+    {
+      "id": "lang_sw_63",
+      "name": "SW — Swahili — Kenya",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=kenya&size=640"
+    },
+    {
+      "id": "lang_af_64",
+      "name": "AF — Afrikaans — South Africa",
+      "image": "https://www.freeflagicons.com/download/?series=square_icon_with_iso_code&country=south-africa&size=640"
+    }
+  ]
+}
